@@ -59,9 +59,19 @@ export const atlanticForestCarouselItems: CommonCarrouselInterface = {
             captionTitle: 'Cedro',
         },
         {
+            src: `${pathToAtlanticForest}/flowers/figueira.webp`,
+            alt: `jambo`,
+            captionTitle: 'Figueira'
+        },
+        {
             src: `${pathToAtlanticForest}/flowers/jambo.webp`,
             alt: `jambo`,
             captionTitle: 'Jambo'
+        },
+        {
+            src: `${pathToAtlanticForest}/flowers/jequitiba-rosa.webp`,
+            alt: `pink jequitibá`,
+            captionTitle: 'Jequitibá rosa'
         },
         {
             src: `${pathToAtlanticForest}/flowers/pau-brasil.webp`,
