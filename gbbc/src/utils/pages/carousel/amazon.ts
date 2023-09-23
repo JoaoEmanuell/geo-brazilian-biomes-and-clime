@@ -42,23 +42,12 @@ export const amazonCarouselItems: CommonCarrouselInterface = {
             captionTitle: 'Onça pintada'
         },
         {
-            src: `${pathToAmazon}/animals/red-arara.webp`,
-            alt: `Red arara`,
-            captionTitle: 'Arara vermelha'
-        },
-        {
             src: `${pathToAmazon}/animals/toucan.webp`,
             alt: `Toucan`,
             captionTitle: 'Tucano'
         },
     ], 
     flora: [
-        {
-            src: `${pathToAmazon}/flora/cocoa.webp`,
-            alt: `Cocoa`,
-            captionTitle: 'Cacau',
-            captionText: 'Chocolate'
-        },
         {
             src: `${pathToAmazon}/flora/cupuaçu.webp`,
             alt: `Cupuaçu`,
@@ -69,12 +58,6 @@ export const amazonCarouselItems: CommonCarrouselInterface = {
             src: `${pathToAmazon}/flora/guarana.webp`,
             alt: `Guarana`,
             captionTitle: 'Guarana'
-        },
-        {
-            src: `${pathToAmazon}/flora/rubber-tree.JPG`,
-            alt: `Rubber tree`,
-            captionTitle: 'Seringueira',
-            captionText: 'Extração do latex para fabricação da borracha'
         },
         {
             src: `${pathToAmazon}/flora/water-lily.webp`,
