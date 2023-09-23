@@ -6,7 +6,7 @@ interface CenterDivProps {
 }
 
 export function CenterDiv(props: PropsWithChildren<CenterDivProps>) {
-    const className = `container mx-auto mt-4 text-center ${props.className}`
+    const className = `container mx-auto text-center ${props.className}`
     return (
         <div className={className} id={props.id}>
             {props.children}
