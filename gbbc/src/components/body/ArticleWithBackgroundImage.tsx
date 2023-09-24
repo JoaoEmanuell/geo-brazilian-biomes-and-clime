@@ -9,12 +9,12 @@ export function ArticleWithBackgroundImage(
 ) {
     return (
         <article
-            className="relative bg-fixed bg-center bg-cover bg-no-repeat backdrop-blur-md"
+            className="relative bg-fixed bg-center bg-cover bg-no-repeat"
             style={{
                 backgroundImage: `url(${props.imageSrc})`,
             }}
         >
-            <div className="bg-text">{props.children}</div>
+            <div>{props.children}</div>
         </article>
     )
 }
