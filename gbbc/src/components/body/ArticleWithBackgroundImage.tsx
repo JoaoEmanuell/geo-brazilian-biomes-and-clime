@@ -9,7 +9,7 @@ export function ArticleWithBackgroundImage(
 ) {
     return (
         <article
-            className="relative bg-fixed bg-center bg-cover bg-no-repeat"
+            className="relative bg-fixed bg-center bg-cover bg-no-repeat px-1"
             style={{
                 backgroundImage: `url(${props.imageSrc})`,
             }}
