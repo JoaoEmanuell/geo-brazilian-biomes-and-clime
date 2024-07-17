@@ -5,10 +5,6 @@
   - [Autores](#autores)
 
 
-### Correção em Português
-
----
-
 # Geography Brazilian Biomes and Clime (GBBC)
 
 GBBC é um website cujo objetivo é apresentar os biomas brasileiros, suas informações, fauna e flora, com o objetivo de conscientizar as pessoas sobre a grandeza e a biodiversidade encontradas no nosso país.
